@@ -1,0 +1,5 @@
+<Result success="false">
+    <Massage>Cannot open remote filr '/home/user/examplefile.txt'.</Massage>
+    <ErrorCode>2</ErrorCode>
+    <RequestCode>3</RequestCode>
+</Result>
