@@ -214,9 +214,6 @@ while (True):
 '''
 
 '''
-##########################################################################
-# Program is copyright of Ajay Tech @ https://ajaytech.co
-##########################################################################
 # In this program we will learn
 # 1 - Dictionary Data Structure
 # 2 - Functions
@@ -248,9 +245,7 @@ while ( True ) :
     else :
         print ( " incorrect ")'''
 
-'''##########################################################################
-# Program is copyright of Ajay Tech @ https://ajaytech.co
-##########################################################################
+'''
 # Give 2 sentences, identify
 # 1. common words between the sentences
 # 2. unique words across the sentences
